@@ -1,0 +1,5 @@
+service_account.json
+openai_session.txt
+auth.sh
+*.mp3
+*.wav
