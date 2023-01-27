@@ -2,6 +2,8 @@
 
 VoiceGPT is a voice assistant that leverages the powerful ChatGPT chatbot to answer your questions.  You speak the requests, and VoiceGPT responds with realistic, synthesized speech.
 
+![](https://raw.githubusercontent.com/nickbild/voice_chatgpt/main/media/voicegpt_title.jpg)
+
 ## How It Works
 
 ![](https://raw.githubusercontent.com/nickbild/voice_chatgpt/main/media/voicegpt_overview.jpg)
