@@ -8,7 +8,7 @@ I chose a Raspberry Pi 4 single board computer to host the project, because it r
 
 The concept of a voice assistant is well established (e.g. Google Home, Amazon Alexa), but this proof of concept shows how a voice assistant can use ChatGPT, which, in my opinion, provides a far better experience than anything currently on the market.
 
-In the future, I may add a keyword spotting algorithm to the project so that it can always run in the background, waiting for a keyword (e.g. "Hey, ChatGPT") to wake up.  Before I have the chance to do much of anything else, there will probably be a commerical product including ChatGPT on the backend, then I'll just buy that because it will be smaller and better.  :)
+In the future, I may add a keyword spotting algorithm to the project so that it can always run in the background, waiting for a keyword (e.g. "Hey, ChatGPT") to wake up.  Before I have the chance to do much of anything else, there will probably be a commerical product including ChatGPT on the backend — then I'll just buy that because it will be smaller and better.  :)
 
 ## Media
 
