@@ -16,6 +16,8 @@ In the future, I may add a keyword spotting algorithm to the project so that it 
 
 ## Media
 
+[Demonstration video](https://www.youtube.com/watch?v=ajUCMu7de80)
+
 ![](https://raw.githubusercontent.com/nickbild/voice_chatgpt/main/media/voicegpt_sm.jpg)
 
 ## Bill of Materials
