@@ -10,6 +10,8 @@ The concept of a voice assistant is well established (e.g. Google Home, Amazon A
 
 ## Media
 
+![](https://raw.githubusercontent.com/nickbild/voice_chatgpt/main/media/voicegpt_sm.jpg)
+
 ## Bill of Materials
 
 - 1 x Raspberry Pi 4
